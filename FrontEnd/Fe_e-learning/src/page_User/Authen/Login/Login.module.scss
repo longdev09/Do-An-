@@ -1,0 +1,28 @@
+.wrap {
+  padding: 40px;
+  .container {
+    max-width: 500px;
+    margin: 0 auto;
+    .heading {
+      margin-bottom: 20px;
+    }
+    .content {
+      background-color: #fff;
+      padding: 40px;
+      border-radius: 10px;
+      box-shadow: 0 0 7px #5ebbff;
+      .wrap-content {
+        display: flex;
+        flex-direction: column;
+        .header {
+          text-align: center;
+          text-transform: uppercase;
+          font-size: 13px;
+        }
+        .item-input {
+          margin-top: 30px;
+        }
+      }
+    }
+  }
+}

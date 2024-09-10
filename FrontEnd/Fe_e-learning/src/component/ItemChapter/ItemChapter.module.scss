@@ -1,0 +1,56 @@
+.wrap {
+  .heading {
+    padding: 20px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    .title {
+      span {
+        &:nth-child(1) {
+          font-weight: 700;
+          font-size: 20px;
+        }
+        &:nth-child(2) {
+          font-size: 17px;
+          margin-left: 10px;
+        }
+      }
+    }
+    .btn-edit {
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      font-size: 17px;
+      margin-left: 10px;
+      span {
+        margin-left: 10px;
+      }
+    }
+  }
+  .update-chuong {
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-top: 10px;
+  }
+  .add-content-course {
+    cursor: pointer;
+    padding: 20px 30px;
+    background-color: #29303b;
+    span {
+      color: #fff;
+      font-size: 15px;
+      &:nth-child(1) {
+        margin-right: 10px;
+      }
+    }
+  }
+  .content {
+    padding-left: 30px;
+    padding-right: 10px;
+    display: flex;
+    flex-direction: column;
+    .list-content-course {
+      padding: 10px 0px;
+    }
+  }
+}

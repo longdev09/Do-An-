@@ -1,0 +1,17 @@
+.custom-button {
+  justify-content: center;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  color: #fff;
+  background: linear-gradient(90deg, #0072ff 0%, #00d4ff 100%) !important;
+  &:hover {
+    color: #fff !important;
+    background: linear-gradient(141.34deg, #0072ff 0%, #00d4ff 91.11%)
+      border-box !important;
+  }
+}
+.w100 {
+  width: 100%;
+  height: 50px;
+}

@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  ::-webkit-scrollbar {
+    border-radius: 0;
+    height: 2px;
+    width: 8px;
+  }
+  ::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+  }
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+/* img{
+  width: 100%;
+  height: 100%;
+} */
+:root {
+  --h-header: 66px;
+  --logo-header:40px;
+  --main-color: #009dff;
+  --text-color-main: #009dff;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+li{
+  list-style-type: none !important;
+ 
+}
+
+.ant-btn-primary {
+  background: linear-gradient(90deg, #0072ff 0%, #00d4ff 100%) !important;
+  border: none !important;
+  color: white !important;
+}
+
+.ant-btn-primary:hover, .ant-btn-primary:focus {
+  background: linear-gradient(141.34deg, #0072ff 0%, #00d4ff 91.11%)
+      border-box !important;
+  color: white !important;
+}
+.ant-btn-primary:disabled {
+  background: linear-gradient(90deg, #b0c4de 0%, #c0d6e4 100%) !important;
+  border: none !important;
+  color: rgba(255, 255, 255, 0.7) !important;
+  cursor: not-allowed !important;
+  opacity: 0.6 !important;
+}
+
+.ant-btn-primary:disabled:hover, .ant-btn-primary:disabled:focus {
+  background: linear-gradient(90deg, #b0c4de 0%, #c0d6e4 100%) !important;
+  color: rgba(255, 255, 255, 0.7) !important;
+  cursor: not-allowed !important;
+  opacity: 0.6 !important;
+}
+

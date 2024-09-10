@@ -1,0 +1,70 @@
+.wrap {
+  .heading {
+    display: flex;
+    background-color: #fff;
+    padding: 30px;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  .list {
+    width: 100%;
+    display: flex;
+  }
+  .wrap-tong-quan {
+    background-color: #fff;
+
+    border-radius: 10px;
+    padding: 25px 20px;
+    margin: 5px 10px;
+    .top {
+      align-items: center;
+      justify-content: center;
+      display: flex;
+      .course-buys {
+        width: 50%;
+        padding: 10px;
+        h2 {
+          text-align: center;
+          margin-bottom: 20px;
+        }
+        .bar-course-buys {
+          width: 100%;
+        }
+      }
+    }
+  }
+  .wrap-loi-nhuan {
+    background-color: #fff;
+
+    border-radius: 10px;
+    padding: 25px 20px;
+    margin: 10px 10px;
+  }
+}
+.item-card {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 25px 20px;
+  margin: 5px 10px;
+  display: flex;
+  width: 40%;
+
+  align-items: center;
+  justify-content: space-between;
+
+  .card-title {
+    h2 {
+      margin-bottom: 20px;
+      color: var(--text-color-main);
+    }
+    span {
+      font-size: 20px;
+      font-weight: 700;
+    }
+  }
+  .icon {
+    font-size: 60px;
+  }
+}

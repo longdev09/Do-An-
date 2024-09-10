@@ -1,0 +1,36 @@
+.wrap {
+  .heading1 {
+    h2 {
+      margin-bottom: 20px;
+    }
+    .text {
+      line-height: 35px;
+      margin-bottom: 20px;
+    }
+  }
+
+  .heading2 {
+    ul {
+      list-style-type: none;
+      margin-top: 20px;
+      display: flex;
+      flex-flow: row wrap;
+      justify-content: space-between;
+      li {
+        display: flex;
+
+        width: calc(50% - (2.4rem / 2));
+        margin-bottom: 20px;
+        span {
+          &:nth-child(1) {
+            margin-right: 10px;
+            font-size: 12px;
+          }
+          &:nth-child(2) {
+            font-size: 13px;
+          }
+        }
+      }
+    }
+  }
+}

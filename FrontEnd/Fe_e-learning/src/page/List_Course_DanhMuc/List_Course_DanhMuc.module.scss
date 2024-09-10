@@ -1,0 +1,59 @@
+.wrap {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0px 50px;
+  margin-bottom: 50px;
+  .heading {
+    margin-top: 20px;
+  }
+  .container {
+    .fitter-pane {
+      margin-top: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 20px;
+
+      .btn-fitter {
+        cursor: pointer;
+        padding: 10px;
+        background-color: transparent;
+        border: 1px solid #2d2f31;
+        display: flex;
+        align-items: center;
+        span {
+          margin-right: 5px;
+        }
+      }
+    }
+    .content {
+      display: flex;
+      .filter {
+        width: 30%;
+        border-top: 1px solid #d1d7dc;
+
+        .rank {
+          padding: 20px 0px;
+          .radio-wrap {
+            font-size: 12px;
+            margin-top: 20px;
+            display: flex;
+            flex-direction: column;
+          }
+        }
+        .price {
+          border-top: 1px solid #d1d7dc;
+          padding: 20px 0px;
+          .radio-wrap {
+            display: flex;
+            flex-direction: column;
+          }
+        }
+      }
+      .list-course {
+        padding: 0px 20px;
+        width: 70%;
+      }
+    }
+  }
+}

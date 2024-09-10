@@ -1,0 +1,81 @@
+.wrapp {
+  margin-top: 20px;
+  border: 1px solid black;
+  .wrapp-heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    .left {
+      display: flex;
+      align-items: center;
+      .title {
+        display: flex;
+        align-items: center;
+        span {
+          &:nth-child(1) {
+            font-weight: 700;
+            font-size: 15px;
+          }
+          &:nth-child(2) {
+            font-size: 15px;
+            margin-left: 10px;
+          }
+        }
+      }
+      .btn-edit {
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        font-size: 14px;
+        margin-left: 10px;
+        span {
+          margin-left: 10px;
+        }
+      }
+    }
+  }
+  .wrapp-add-video {
+    border-top: 1px solid black;
+    padding: 15px;
+    .container {
+      .upload-video {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .video-succse {
+        margin-top: 20px;
+
+        .wrap-video {
+          display: flex;
+          gap: 30px;
+          .video {
+            width: 100px;
+            video {
+              width: 100%;
+            }
+          }
+          .content {
+            display: flex;
+            flex-direction: column;
+            .name-file {
+              font-size: 17px;
+            }
+            .edit-video {
+              cursor: pointer;
+              font-size: 14px;
+              display: flex;
+              margin-top: 10px;
+              align-items: center;
+              span {
+                &:nth-child(1) {
+                  margin-right: 10px;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

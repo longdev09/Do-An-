@@ -1,0 +1,1625 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\services\\ilichsuthanhtoanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\services\\ilichsuthanhtoanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\controllers\\thongkecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\controllers\\thongkecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\controllers\\thongtinthanhtoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\controllers\\thongtinthanhtoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\controllers\\lichsuthanhtoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\controllers\\lichsuthanhtoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\controllers\\khoahoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\controllers\\khoahoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\services\\ikhoahocservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\services\\ikhoahocservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\model\\khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\model\\khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\services\\inguoidungservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\services\\inguoidungservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\services\\ithongtinthanhtoanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\services\\ithongtinthanhtoanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\controllers\\noidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\controllers\\noidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\controllers\\tracnghiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\controllers\\tracnghiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\model\\lichsuthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\model\\lichsuthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\model\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\model\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\dto\\thongtinthanhtoandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\dto\\thongtinthanhtoandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\migrations\\20240616040411_xxx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\migrations\\20240616040411_xxx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\model\\thongtinthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\model\\thongtinthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\model\\loinhuangiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\model\\loinhuangiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\services\\igiamgiaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\services\\igiamgiaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\services\\igiohangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\services\\igiohangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\controllers\\giamgiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\controllers\\giamgiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\model\\giamgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\model\\giamgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\dto\\hocviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\dto\\hocviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\migrations\\20240616034650_updatethongtinthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\migrations\\20240616034650_updatethongtinthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\dto\\lichsuthanhtoandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\dto\\lichsuthanhtoandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\controllers\\hocviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\controllers\\hocviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\dto\\giangviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\dto\\giangviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\dto\\giohangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\dto\\giohangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\services\\ihoadonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\services\\ihoadonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\controllers\\khoahocdamuacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\controllers\\khoahocdamuacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\migrations\\20240614103046_cpp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\migrations\\20240614103046_cpp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\services\\inoidungservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\services\\inoidungservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\model\\noidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\model\\noidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\dto\\nguoidungdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\dto\\nguoidungdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\dto\\tracnghiemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\dto\\tracnghiemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\services\\ithongkeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\services\\ithongkeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\controllers\\giangviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\controllers\\giangviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\controllers\\hoadonbankhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\controllers\\hoadonbankhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\services\\itracnghiemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\services\\itracnghiemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\services\\ivideoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\services\\ivideoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\firebase\\uploadfirebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\firebase\\uploadfirebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\services\\idanhmucservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\services\\idanhmucservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\controllers\\chuongkhoahoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\controllers\\chuongkhoahoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\controllers\\danhgiakhoahoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\controllers\\danhgiakhoahoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\services\\ihoadonbankhservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\services\\ihoadonbankhservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\model\\hoadonbankh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\model\\hoadonbankh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\model\\hocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\model\\hocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\services\\ihocvienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\services\\ihocvienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\services\\ikhoahocdamuaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\services\\ikhoahocdamuaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\migrations\\20240612124150_xxxx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\migrations\\20240612124150_xxxx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\model\\dapan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\model\\dapan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\model\\khoahocdamua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\model\\khoahocdamua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\model\\giangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\model\\giangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\model\\loainoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\model\\loainoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\model\\tracnghiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\model\\tracnghiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\model\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\model\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\migrations\\20240612122359_ud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\migrations\\20240612122359_ud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\model\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\model\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\model\\danhgiakhoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\model\\danhgiakhoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\services\\ichitietgiamgiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\services\\ichitietgiamgiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\controllers\\chitietgiamgiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\controllers\\chitietgiamgiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\dto\\chitietgiamgiadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\dto\\chitietgiamgiadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\dto\\dapandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\dto\\dapandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\dto\\giamgiadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\dto\\giamgiadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\dto\\hoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\dto\\hoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\migrations\\20240611170853_hdbankh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\migrations\\20240611170853_hdbankh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\services\\igiangvienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\services\\igiangvienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\helpers\\email\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\helpers\\email\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\services\\ichuongkhoahocservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\services\\ichuongkhoahocservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\dto\\khoahocdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\dto\\khoahocdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\dto\\dangnhapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\dto\\dangnhapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\services\\idanhgiakhoahocservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\services\\idanhgiakhoahocservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\migrations\\20240530002143_cnnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\migrations\\20240530002143_cnnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\model\\chuongkhoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\model\\chuongkhoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\migrations\\20240529005919_cn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\migrations\\20240529005919_cn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\migrations\\20240529011247_cnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\migrations\\20240529011247_cnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\model\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\model\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\dto\\danhgiakhoahocdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\dto\\danhgiakhoahocdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\model\\chitietgiamgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\model\\chitietgiamgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\migrations\\20240526141617_capnhatkhctgg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\migrations\\20240526141617_capnhatkhctgg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\model\\chitietgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\model\\chitietgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\model\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\model\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\migrations\\20240526040626_capnhatdatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\migrations\\20240526040626_capnhatdatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\migrations\\20240525021327_capnhatbangiamgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\migrations\\20240525021327_capnhatbangiamgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\migrations\\20240524121942_capnhatgiamgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\migrations\\20240524121942_capnhatgiamgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\migrations\\20240523093936_capnhattientrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\migrations\\20240523093936_capnhattientrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\migrations\\20240517082549_c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\migrations\\20240517082549_c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\migrations\\20240518112648_capnhatdanhgiakhoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\migrations\\20240518112648_capnhatdanhgiakhoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\migrations\\20240517082804_cc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\migrations\\20240517082804_cc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\migrations\\20240612052525_xoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\migrations\\20240612052525_xoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\migrations\\20240612052142_capnhahd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\migrations\\20240612052142_capnhahd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\migrations\\20240612041842_ss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\migrations\\20240612041842_ss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|e:\\-----------nam---4\\websitekinhdoanhkhoahoctructuyen\\backend\\be_e-learning\\be_e-learning\\migrations\\20240612040752_updatekh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA4CA22-88AB-48AE-A786-600D5793771F}|Be_e-learning\\Be_e-learning.csproj|solutionrelative:be_e-learning\\migrations\\20240612040752_updatekh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Startup.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Startup.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Startup.cs",
+              "RelativeToolTip": "Be_e-learning\\Startup.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAqwGUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T06:21:30.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\appsettings.json",
+              "RelativeDocumentMoniker": "Be_e-learning\\appsettings.json",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\appsettings.json",
+              "RelativeToolTip": "Be_e-learning\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T15:08:23.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "INguoiDungService.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\INguoiDungService.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Services\\INguoiDungService.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\INguoiDungService.cs",
+              "RelativeToolTip": "Be_e-learning\\Services\\INguoiDungService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:38:53.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KhoaHoc.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\KhoaHoc.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Model\\KhoaHoc.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\KhoaHoc.cs",
+              "RelativeToolTip": "Be_e-learning\\Model\\KhoaHoc.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:20:26.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ILichSuThanhToanService.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\ILichSuThanhToanService.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Services\\ILichSuThanhToanService.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\ILichSuThanhToanService.cs",
+              "RelativeToolTip": "Be_e-learning\\Services\\ILichSuThanhToanService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAwEYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:27:46.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThongKeController.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\ThongKeController.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Controllers\\ThongKeController.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\ThongKeController.cs",
+              "RelativeToolTip": "Be_e-learning\\Controllers\\ThongKeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:38:03.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThongTinThanhToanController.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\ThongTinThanhToanController.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Controllers\\ThongTinThanhToanController.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\ThongTinThanhToanController.cs",
+              "RelativeToolTip": "Be_e-learning\\Controllers\\ThongTinThanhToanController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAzwC8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:44:22.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LichSuThanhToanController.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\LichSuThanhToanController.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Controllers\\LichSuThanhToanController.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\LichSuThanhToanController.cs",
+              "RelativeToolTip": "Be_e-learning\\Controllers\\LichSuThanhToanController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwEwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:11:37.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IKhoaHocService.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IKhoaHocService.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Services\\IKhoaHocService.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IKhoaHocService.cs",
+              "RelativeToolTip": "Be_e-learning\\Services\\IKhoaHocService.cs",
+              "ViewState": "AQIAABUBAAAAAAAAAAAYwJ4BAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:21:29.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KhoaHocController.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\KhoaHocController.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Controllers\\KhoaHocController.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\KhoaHocController.cs",
+              "RelativeToolTip": "Be_e-learning\\Controllers\\KhoaHocController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAApwDEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:29:06.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IThongTinThanhToanService.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IThongTinThanhToanService.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Services\\IThongTinThanhToanService.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IThongTinThanhToanService.cs",
+              "RelativeToolTip": "Be_e-learning\\Services\\IThongTinThanhToanService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:43:55.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NoiDungController.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\NoiDungController.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Controllers\\NoiDungController.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\NoiDungController.cs",
+              "RelativeToolTip": "Be_e-learning\\Controllers\\NoiDungController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAWwCUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:26:40.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TracNghiemController.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\TracNghiemController.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Controllers\\TracNghiemController.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\TracNghiemController.cs",
+              "RelativeToolTip": "Be_e-learning\\Controllers\\TracNghiemController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:05:43.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LichSuThanhToan.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\LichSuThanhToan.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Model\\LichSuThanhToan.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\LichSuThanhToan.cs",
+              "RelativeToolTip": "Be_e-learning\\Model\\LichSuThanhToan.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:14:58.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\DataContext.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Model\\DataContext.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\DataContext.cs",
+              "RelativeToolTip": "Be_e-learning\\Model\\DataContext.cs",
+              "ViewState": "AQIAACABAAAAAAAAAIAwwC4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:19:36.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ThongTinThanhToanDTO.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\ThongTinThanhToanDTO.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\DTO\\ThongTinThanhToanDTO.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\ThongTinThanhToanDTO.cs",
+              "RelativeToolTip": "Be_e-learning\\DTO\\ThongTinThanhToanDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:07:54.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240616040411_xxx.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240616040411_xxx.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Migrations\\20240616040411_xxx.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240616040411_xxx.cs",
+              "RelativeToolTip": "Be_e-learning\\Migrations\\20240616040411_xxx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:04:11.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoiNhuanGiangVien.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\LoiNhuanGiangVien.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Model\\LoiNhuanGiangVien.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\LoiNhuanGiangVien.cs",
+              "RelativeToolTip": "Be_e-learning\\Model\\LoiNhuanGiangVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:12:55.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ThongTinThanhToan.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\ThongTinThanhToan.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Model\\ThongTinThanhToan.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\ThongTinThanhToan.cs",
+              "RelativeToolTip": "Be_e-learning\\Model\\ThongTinThanhToan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:58:41.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IGiamGiaServices.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IGiamGiaServices.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Services\\IGiamGiaServices.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IGiamGiaServices.cs",
+              "RelativeToolTip": "Be_e-learning\\Services\\IGiamGiaServices.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA0wCAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:31:44.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IGioHangService.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IGioHangService.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Services\\IGioHangService.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IGioHangService.cs",
+              "RelativeToolTip": "Be_e-learning\\Services\\IGioHangService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAD4vxkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T06:03:05.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HoaDonController.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\HoaDonController.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Controllers\\HoaDonController.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\HoaDonController.cs",
+              "RelativeToolTip": "Be_e-learning\\Controllers\\HoaDonController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA5wCAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:33:16.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GiangVienDTO.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\GiangVienDTO.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\DTO\\GiangVienDTO.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\GiangVienDTO.cs",
+              "RelativeToolTip": "Be_e-learning\\DTO\\GiangVienDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T03:10:32.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GiamGia.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\GiamGia.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Model\\GiamGia.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\GiamGia.cs",
+              "RelativeToolTip": "Be_e-learning\\Model\\GiamGia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:57:08.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HocVienDTO.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\HocVienDTO.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\DTO\\HocVienDTO.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\HocVienDTO.cs",
+              "RelativeToolTip": "Be_e-learning\\DTO\\HocVienDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:26:36.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HocVienController.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\HocVienController.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Controllers\\HocVienController.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\HocVienController.cs",
+              "RelativeToolTip": "Be_e-learning\\Controllers\\HocVienController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwF8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:35:22.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240616034650_updateThongTinThanhToan.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240616034650_updateThongTinThanhToan.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Migrations\\20240616034650_updateThongTinThanhToan.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240616034650_updateThongTinThanhToan.cs",
+              "RelativeToolTip": "Be_e-learning\\Migrations\\20240616034650_updateThongTinThanhToan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T03:46:50.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GiamGiaController.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\GiamGiaController.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Controllers\\GiamGiaController.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\GiamGiaController.cs",
+              "RelativeToolTip": "Be_e-learning\\Controllers\\GiamGiaController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAvwEQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:42:28.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Controllers\\GioHangController.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "Be_e-learning\\Controllers\\GioHangController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAWwCcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:28:32.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LichSuThanhToanDTO.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\LichSuThanhToanDTO.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\DTO\\LichSuThanhToanDTO.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\LichSuThanhToanDTO.cs",
+              "RelativeToolTip": "Be_e-learning\\DTO\\LichSuThanhToanDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:12:04.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GioHangDTO.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\GioHangDTO.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\DTO\\GioHangDTO.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\GioHangDTO.cs",
+              "RelativeToolTip": "Be_e-learning\\DTO\\GioHangDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:21:32.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NguoiDungController.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\NguoiDungController.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Controllers\\NguoiDungController.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\NguoiDungController.cs",
+              "RelativeToolTip": "Be_e-learning\\Controllers\\NguoiDungController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAewBYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:35:20.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IHoaDonService.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IHoaDonService.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Services\\IHoaDonService.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IHoaDonService.cs",
+              "RelativeToolTip": "Be_e-learning\\Services\\IHoaDonService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwC4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:21:28.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "KhoaHocDaMuaController.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\KhoaHocDaMuaController.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Controllers\\KhoaHocDaMuaController.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\KhoaHocDaMuaController.cs",
+              "RelativeToolTip": "Be_e-learning\\Controllers\\KhoaHocDaMuaController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwCQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:35:44.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240614103046_cpp.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240614103046_cpp.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Migrations\\20240614103046_cpp.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240614103046_cpp.cs",
+              "RelativeToolTip": "Be_e-learning\\Migrations\\20240614103046_cpp.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:30:47.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "INoiDungService.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\INoiDungService.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Services\\INoiDungService.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\INoiDungService.cs",
+              "RelativeToolTip": "Be_e-learning\\Services\\INoiDungService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAjwCQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:12:22.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "NoiDung.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\NoiDung.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Model\\NoiDung.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\NoiDung.cs",
+              "RelativeToolTip": "Be_e-learning\\Model\\NoiDung.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAApwBQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:21:03.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "NguoiDungDTO.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\NguoiDungDTO.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\DTO\\NguoiDungDTO.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\NguoiDungDTO.cs",
+              "RelativeToolTip": "Be_e-learning\\DTO\\NguoiDungDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:06:32.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GiangVienController.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\GiangVienController.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Controllers\\GiangVienController.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\GiangVienController.cs",
+              "RelativeToolTip": "Be_e-learning\\Controllers\\GiangVienController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCEAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:27:40.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DanhMucController.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\DanhMucController.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Controllers\\DanhMucController.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\DanhMucController.cs",
+              "RelativeToolTip": "Be_e-learning\\Controllers\\DanhMucController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:58:21.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TracNghiemDTO.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\TracNghiemDTO.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\DTO\\TracNghiemDTO.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\TracNghiemDTO.cs",
+              "RelativeToolTip": "Be_e-learning\\DTO\\TracNghiemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:10:19.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IThongKeService.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IThongKeService.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Services\\IThongKeService.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IThongKeService.cs",
+              "RelativeToolTip": "Be_e-learning\\Services\\IThongKeService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA8wFkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:57:36.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Program.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Program.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Program.cs",
+              "RelativeToolTip": "Be_e-learning\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T06:25:25.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HoaDonBanKhController.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\HoaDonBanKhController.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Controllers\\HoaDonBanKhController.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\HoaDonBanKhController.cs",
+              "RelativeToolTip": "Be_e-learning\\Controllers\\HoaDonBanKhController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:54:23.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ITracNghiemService.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\ITracNghiemService.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Services\\ITracNghiemService.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\ITracNghiemService.cs",
+              "RelativeToolTip": "Be_e-learning\\Services\\ITracNghiemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T05:06:24.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IVideoService.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IVideoService.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Services\\IVideoService.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IVideoService.cs",
+              "RelativeToolTip": "Be_e-learning\\Services\\IVideoService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:56:45.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UploadFireBase.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\FireBase\\UploadFireBase.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\FireBase\\UploadFireBase.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\FireBase\\UploadFireBase.cs",
+              "RelativeToolTip": "Be_e-learning\\FireBase\\UploadFireBase.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAEwFQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:31:17.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IDanhMucService.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IDanhMucService.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Services\\IDanhMucService.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IDanhMucService.cs",
+              "RelativeToolTip": "Be_e-learning\\Services\\IDanhMucService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAnwBsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:14:22.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ChuongKhoaHocController.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\ChuongKhoaHocController.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Controllers\\ChuongKhoaHocController.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\ChuongKhoaHocController.cs",
+              "RelativeToolTip": "Be_e-learning\\Controllers\\ChuongKhoaHocController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:26:23.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DanhGiaKhoaHocController.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\DanhGiaKhoaHocController.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Controllers\\DanhGiaKhoaHocController.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\DanhGiaKhoaHocController.cs",
+              "RelativeToolTip": "Be_e-learning\\Controllers\\DanhGiaKhoaHocController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:45:20.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IHoaDonBanKhService.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IHoaDonBanKhService.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Services\\IHoaDonBanKhService.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IHoaDonBanKhService.cs",
+              "RelativeToolTip": "Be_e-learning\\Services\\IHoaDonBanKhService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:09:41.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "HoaDonBanKh.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\HoaDonBanKh.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Model\\HoaDonBanKh.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\HoaDonBanKh.cs",
+              "RelativeToolTip": "Be_e-learning\\Model\\HoaDonBanKh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:58:31.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "HocVien.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\HocVien.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Model\\HocVien.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\HocVien.cs",
+              "RelativeToolTip": "Be_e-learning\\Model\\HocVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:22:23.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IHocVienService.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IHocVienService.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Services\\IHocVienService.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IHocVienService.cs",
+              "RelativeToolTip": "Be_e-learning\\Services\\IHocVienService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAmwDIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:38:51.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IKhoaHocDaMuaService.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IKhoaHocDaMuaService.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Services\\IKhoaHocDaMuaService.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IKhoaHocDaMuaService.cs",
+              "RelativeToolTip": "Be_e-learning\\Services\\IKhoaHocDaMuaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:56:00.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20240612124150_xxxx.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240612124150_xxxx.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Migrations\\20240612124150_xxxx.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240612124150_xxxx.cs",
+              "RelativeToolTip": "Be_e-learning\\Migrations\\20240612124150_xxxx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:41:50.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "KhoaHocDaMua.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\KhoaHocDaMua.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Model\\KhoaHocDaMua.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\KhoaHocDaMua.cs",
+              "RelativeToolTip": "Be_e-learning\\Model\\KhoaHocDaMua.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:33:47.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "TracNghiem.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\TracNghiem.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Model\\TracNghiem.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\TracNghiem.cs",
+              "RelativeToolTip": "Be_e-learning\\Model\\TracNghiem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAjwA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:12:22.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "LoaiNoiDung.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\LoaiNoiDung.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Model\\LoaiNoiDung.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\LoaiNoiDung.cs",
+              "RelativeToolTip": "Be_e-learning\\Model\\LoaiNoiDung.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T06:06:31.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "GiangVien.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\GiangVien.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Model\\GiangVien.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\GiangVien.cs",
+              "RelativeToolTip": "Be_e-learning\\Model\\GiangVien.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAUwCUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:20:57.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DapAn.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\DapAn.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Model\\DapAn.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\DapAn.cs",
+              "RelativeToolTip": "Be_e-learning\\Model\\DapAn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:25:41.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\NguoiDung.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Model\\NguoiDung.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\NguoiDung.cs",
+              "RelativeToolTip": "Be_e-learning\\Model\\NguoiDung.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:59:44.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20240612122359_ud.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240612122359_ud.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Migrations\\20240612122359_ud.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240612122359_ud.cs",
+              "RelativeToolTip": "Be_e-learning\\Migrations\\20240612122359_ud.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:24:00.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "20240612052525_xoa.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240612052525_xoa.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Migrations\\20240612052525_xoa.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240612052525_xoa.cs",
+              "RelativeToolTip": "Be_e-learning\\Migrations\\20240612052525_xoa.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:25:25.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "GioHang.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\GioHang.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Model\\GioHang.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\GioHang.cs",
+              "RelativeToolTip": "Be_e-learning\\Model\\GioHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:20:48.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "20240612052142_capNhaHd.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240612052142_capNhaHd.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Migrations\\20240612052142_capNhaHd.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240612052142_capNhaHd.cs",
+              "RelativeToolTip": "Be_e-learning\\Migrations\\20240612052142_capNhaHd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:21:42.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "20240612041842_ss.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240612041842_ss.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Migrations\\20240612041842_ss.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240612041842_ss.cs",
+              "RelativeToolTip": "Be_e-learning\\Migrations\\20240612041842_ss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T04:18:43.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "DanhGiaKhoaHoc.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\DanhGiaKhoaHoc.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Model\\DanhGiaKhoaHoc.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\DanhGiaKhoaHoc.cs",
+              "RelativeToolTip": "Be_e-learning\\Model\\DanhGiaKhoaHoc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:25:09.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "20240612040752_updatekh.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240612040752_updatekh.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Migrations\\20240612040752_updatekh.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240612040752_updatekh.cs",
+              "RelativeToolTip": "Be_e-learning\\Migrations\\20240612040752_updatekh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T04:07:53.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IChiTietGiamGiaService.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IChiTietGiamGiaService.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Services\\IChiTietGiamGiaService.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IChiTietGiamGiaService.cs",
+              "RelativeToolTip": "Be_e-learning\\Services\\IChiTietGiamGiaService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:26:58.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ChiTietGiamGiaDTO.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\ChiTietGiamGiaDTO.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\DTO\\ChiTietGiamGiaDTO.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\ChiTietGiamGiaDTO.cs",
+              "RelativeToolTip": "Be_e-learning\\DTO\\ChiTietGiamGiaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:28:23.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ChiTietGiamGiaController.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\ChiTietGiamGiaController.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Controllers\\ChiTietGiamGiaController.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\ChiTietGiamGiaController.cs",
+              "RelativeToolTip": "Be_e-learning\\Controllers\\ChiTietGiamGiaController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:35:43.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "DapAnDTO.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\DapAnDTO.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\DTO\\DapAnDTO.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\DapAnDTO.cs",
+              "RelativeToolTip": "Be_e-learning\\DTO\\DapAnDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:08:32.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "GiamGiaDTO.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\GiamGiaDTO.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\DTO\\GiamGiaDTO.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\GiamGiaDTO.cs",
+              "RelativeToolTip": "Be_e-learning\\DTO\\GiamGiaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:20:19.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "HoaDonDTO.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\HoaDonDTO.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\DTO\\HoaDonDTO.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\HoaDonDTO.cs",
+              "RelativeToolTip": "Be_e-learning\\DTO\\HoaDonDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:46:03.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20240611170853_hdbanKh.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240611170853_hdbanKh.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Migrations\\20240611170853_hdbanKh.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240611170853_hdbanKh.cs",
+              "RelativeToolTip": "Be_e-learning\\Migrations\\20240611170853_hdbanKh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:08:53.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IGiangVienService.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IGiangVienService.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Services\\IGiangVienService.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IGiangVienService.cs",
+              "RelativeToolTip": "Be_e-learning\\Services\\IGiangVienService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAFUAAACjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:20:41.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "SendEmail.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Helpers\\Email\\SendEmail.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Helpers\\Email\\SendEmail.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Helpers\\Email\\SendEmail.cs",
+              "RelativeToolTip": "Be_e-learning\\Helpers\\Email\\SendEmail.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAkwA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:55:03.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "VideoController.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\VideoController.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Controllers\\VideoController.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Controllers\\VideoController.cs",
+              "RelativeToolTip": "Be_e-learning\\Controllers\\VideoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:35:21.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IChuongKhoaHocService.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IChuongKhoaHocService.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Services\\IChuongKhoaHocService.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IChuongKhoaHocService.cs",
+              "RelativeToolTip": "Be_e-learning\\Services\\IChuongKhoaHocService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAYwEAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T02:57:01.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "KhoaHocDTO.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\KhoaHocDTO.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\DTO\\KhoaHocDTO.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\KhoaHocDTO.cs",
+              "RelativeToolTip": "Be_e-learning\\DTO\\KhoaHocDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:05:12.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "DangNhapDTO.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\DangNhapDTO.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\DTO\\DangNhapDTO.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\DangNhapDTO.cs",
+              "RelativeToolTip": "Be_e-learning\\DTO\\DangNhapDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:52:17.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "IDanhGiaKhoaHocService.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IDanhGiaKhoaHocService.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Services\\IDanhGiaKhoaHocService.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Services\\IDanhGiaKhoaHocService.cs",
+              "RelativeToolTip": "Be_e-learning\\Services\\IDanhGiaKhoaHocService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwCoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:12:42.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20240530002143_cnnn.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240530002143_cnnn.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Migrations\\20240530002143_cnnn.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240530002143_cnnn.cs",
+              "RelativeToolTip": "Be_e-learning\\Migrations\\20240530002143_cnnn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:21:45.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ChuongKhoaHoc.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\ChuongKhoaHoc.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Model\\ChuongKhoaHoc.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\ChuongKhoaHoc.cs",
+              "RelativeToolTip": "Be_e-learning\\Model\\ChuongKhoaHoc.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:20:49.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20240529005919_cn.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240529005919_cn.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Migrations\\20240529005919_cn.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240529005919_cn.cs",
+              "RelativeToolTip": "Be_e-learning\\Migrations\\20240529005919_cn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:59:20.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20240529011247_cnn.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240529011247_cnn.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Migrations\\20240529011247_cnn.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240529011247_cnn.cs",
+              "RelativeToolTip": "Be_e-learning\\Migrations\\20240529011247_cnn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T01:12:47.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "DanhMuc.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\DanhMuc.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Model\\DanhMuc.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\DanhMuc.cs",
+              "RelativeToolTip": "Be_e-learning\\Model\\DanhMuc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:20:49.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "DanhGiaKhoaHocDTO.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\DanhGiaKhoaHocDTO.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\DTO\\DanhGiaKhoaHocDTO.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\DTO\\DanhGiaKhoaHocDTO.cs",
+              "RelativeToolTip": "Be_e-learning\\DTO\\DanhGiaKhoaHocDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:13:53.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ChiTietGiamGia.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\ChiTietGiamGia.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Model\\ChiTietGiamGia.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\ChiTietGiamGia.cs",
+              "RelativeToolTip": "Be_e-learning\\Model\\ChiTietGiamGia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:47:53.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ChiTietGioHang.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\ChiTietGioHang.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Model\\ChiTietGioHang.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\ChiTietGioHang.cs",
+              "RelativeToolTip": "Be_e-learning\\Model\\ChiTietGioHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:09:06.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "20240526141617_capnhatKhCTGG.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240526141617_capnhatKhCTGG.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Migrations\\20240526141617_capnhatKhCTGG.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240526141617_capnhatKhCTGG.cs",
+              "RelativeToolTip": "Be_e-learning\\Migrations\\20240526141617_capnhatKhCTGG.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:16:17.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ChiTietHoaDon.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Model\\ChiTietHoaDon.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Model\\ChiTietHoaDon.cs",
+              "RelativeToolTip": "Be_e-learning\\Model\\ChiTietHoaDon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:21:39.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "20240526040626_capnhatdatetime.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240526040626_capnhatdatetime.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Migrations\\20240526040626_capnhatdatetime.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240526040626_capnhatdatetime.cs",
+              "RelativeToolTip": "Be_e-learning\\Migrations\\20240526040626_capnhatdatetime.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T04:06:27.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "20240525021327_capNhatBanGiamGia.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240525021327_capNhatBanGiamGia.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Migrations\\20240525021327_capNhatBanGiamGia.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240525021327_capNhatBanGiamGia.cs",
+              "RelativeToolTip": "Be_e-learning\\Migrations\\20240525021327_capNhatBanGiamGia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T02:13:28.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "20240524121942_capNhatGiamGia.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240524121942_capNhatGiamGia.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Migrations\\20240524121942_capNhatGiamGia.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240524121942_capNhatGiamGia.cs",
+              "RelativeToolTip": "Be_e-learning\\Migrations\\20240524121942_capNhatGiamGia.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:19:43.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "20240523093936_capNhatTienTrinh.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240523093936_capNhatTienTrinh.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Migrations\\20240523093936_capNhatTienTrinh.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240523093936_capNhatTienTrinh.cs",
+              "RelativeToolTip": "Be_e-learning\\Migrations\\20240523093936_capNhatTienTrinh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:39:37.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "20240518112648_capNhatDanhGiaKhoaHoc.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240518112648_capNhatDanhGiaKhoaHoc.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Migrations\\20240518112648_capNhatDanhGiaKhoaHoc.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240518112648_capNhatDanhGiaKhoaHoc.cs",
+              "RelativeToolTip": "Be_e-learning\\Migrations\\20240518112648_capNhatDanhGiaKhoaHoc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:26:49.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "20240517082804_cc.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240517082804_cc.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Migrations\\20240517082804_cc.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240517082804_cc.cs",
+              "RelativeToolTip": "Be_e-learning\\Migrations\\20240517082804_cc.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:28:04.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "20240517082549_c.cs",
+              "DocumentMoniker": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240517082549_c.cs",
+              "RelativeDocumentMoniker": "Be_e-learning\\Migrations\\20240517082549_c.cs",
+              "ToolTip": "E:\\-----------NAM---4\\WebSiteKinhDoanhKhoaHocTrucTuyen\\BackEnd\\Be_e-learning\\Be_e-learning\\Migrations\\20240517082549_c.cs",
+              "RelativeToolTip": "Be_e-learning\\Migrations\\20240517082549_c.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:25:50.39Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

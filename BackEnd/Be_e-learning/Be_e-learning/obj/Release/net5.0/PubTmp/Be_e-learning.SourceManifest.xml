@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="E:\-----------NAM---4\KI-------------2\Khoa_Luan_Tot_Nghiep\BackEnd\Be_e-learning\Be_e-learning\obj\Release\net5.0\PubTmp\Out\" />
+  <dbfullsql path="E:\-----------NAM---4\KI-------------2\Khoa_Luan_Tot_Nghiep\BackEnd\Be_e-learning\Be_e-learning\obj\Release\net5.0\PubTmp\EFSQLScripts\Be_e_learning.Model.DataContext.sql" />
+</sitemanifest>

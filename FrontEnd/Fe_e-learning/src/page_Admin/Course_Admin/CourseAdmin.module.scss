@@ -1,0 +1,40 @@
+.wrap {
+  .heading {
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .filter {
+    margin-top: 20px;
+    .header {
+      padding: 30px;
+      background-color: #fff;
+      border-radius: 10px;
+      display: flex;
+      justify-content: space-between;
+      .nav {
+        display: flex;
+        align-items: center;
+        font-weight: 700;
+        cursor: pointer;
+        .item-nav {
+          font-size: 16px;
+          margin-left: 10px;
+        }
+        .item-nav.active {
+          color: var(--main-color);
+          background-color: #fff;
+        }
+      }
+    }
+  }
+  .container {
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: 30px;
+  }
+}

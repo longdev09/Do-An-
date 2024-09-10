@@ -1,0 +1,46 @@
+.main {
+  .wrapp {
+    .chapter {
+      background-color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 30px;
+      border-radius: 10px;
+      h1 {
+        font-size: 15px;
+      }
+      .btn-add-chapter {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        .btn-custom {
+          margin-right: 10px;
+        }
+        .custom-link {
+          border-radius: 10px;
+          color: #fff;
+          padding: 10px;
+          display: flex;
+          align-items: center;
+          background: linear-gradient(
+            90deg,
+            #0072ff 0%,
+            #00d4ff 100%
+          ) !important;
+        }
+      }
+    }
+    .wrap-list {
+      margin-top: 20px;
+      .list-chapter {
+        .item-chapter {
+          background-color: #fff;
+          + .item-chapter {
+            margin-top: 20px;
+          }
+        }
+      }
+    }
+  }
+}

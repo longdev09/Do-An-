@@ -1,0 +1,109 @@
+.wrap {
+  padding: 30px;
+  .heading {
+    border-radius: 10px;
+    display: flex;
+    .bank-card {
+      h2 {
+        margin-bottom: 10px;
+      }
+      border-radius: 10px;
+      width: 35%;
+      background-color: #fff;
+      padding: 30px;
+      .card {
+        border-radius: 10px;
+        background: linear-gradient(90deg, #0072ff 0%, #00d4ff 100%) !important;
+        height: 200px;
+        padding: 10px;
+      }
+
+      .logo {
+        width: 130px;
+        display: flex;
+        align-items: center;
+        img {
+          width: 100%;
+        }
+      }
+      .text {
+        margin-left: 7px;
+        display: flex;
+        flex-direction: column;
+        span {
+          color: #fff;
+          &:nth-child(1) {
+            font-size: 30px;
+            margin-bottom: 10px;
+          }
+          &:nth-child(2) {
+            font-size: 20px;
+            text-transform: uppercase;
+          }
+        }
+      }
+      .edit {
+        font-weight: 700;
+        cursor: pointer;
+        color: #fff;
+        display: flex;
+        justify-content: flex-end;
+      }
+    }
+    .revenue {
+      width: 65%;
+      border-radius: 10px;
+      margin-left: 20px;
+      background-color: #fff;
+      padding: 30px;
+      .revenue-detail {
+        margin-top: 10px;
+        display: flex;
+        .item {
+          width: 50%;
+          h2 {
+            font-size: 30px;
+            color: #0681df;
+            margin-top: 10px;
+          }
+        }
+      }
+    }
+    .form-tt {
+      border-radius: 10px;
+      width: 35%;
+      background-color: #fff;
+      padding: 30px;
+    }
+  }
+  .filter {
+    margin-top: 20px;
+    .header {
+      padding: 30px;
+      background-color: #fff;
+      border-radius: 10px;
+      display: flex;
+      justify-content: space-between;
+      .nav {
+        display: flex;
+        align-items: center;
+        font-weight: 700;
+        cursor: pointer;
+        .item-nav {
+          font-size: 16px;
+          margin-left: 10px;
+        }
+        .item-nav.active {
+          color: var(--main-color);
+          background-color: #fff;
+        }
+      }
+    }
+  }
+  .container {
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: 30px;
+  }
+}

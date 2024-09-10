@@ -1,0 +1,17 @@
+.wrap {
+  .custom-form {
+    margin-top: 40px;
+    .input-wrap {
+      display: flex;
+      align-items: center;
+      .input-item {
+        + .input-item {
+          margin-left: 10px;
+        }
+        .custom-input {
+          height: 50px;
+        }
+      }
+    }
+  }
+}

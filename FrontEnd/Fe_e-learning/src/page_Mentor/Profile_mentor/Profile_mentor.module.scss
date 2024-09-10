@@ -1,0 +1,35 @@
+.wrap {
+  .container {
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 10px;
+    .heading {
+      margin-bottom: 20px;
+    }
+    .content {
+      display: flex;
+
+      .avata {
+        padding: 10px;
+        img {
+          border-radius: 10px;
+          width: 300px;
+        }
+      }
+      .info {
+        width: 100%;
+        padding: 10px;
+        .item-input {
+          display: flex;
+          .item {
+            padding: 0px 10px;
+            width: 50%;
+            .custom-input {
+              height: 50px !important;
+            }
+          }
+        }
+      }
+    }
+  }
+}

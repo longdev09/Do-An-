@@ -1,0 +1,77 @@
+.wrap-category {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0px 30px;
+  .text-category {
+    padding-top: 40px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    span {
+      color: var(--main-color);
+      margin-bottom: 10px;
+    }
+    h2 {
+      font-size: 36px;
+      text-align: center;
+    }
+  }
+}
+
+/* Màn hình từ 1024px đến 1199px */
+@media (max-width: 1199px) and (min-width: 1024px) {
+  .wrap-category {
+    .text-category {
+      span {
+        font-size: 17px;
+      }
+      h2 {
+        font-size: 29px;
+      }
+    }
+  }
+}
+
+/* Màn hình từ 768px đến 1023px */
+@media (max-width: 1023px) and (min-width: 768px) {
+  .wrap-category {
+    .text-category {
+      span {
+        font-size: 17px;
+      }
+      h2 {
+        font-size: 29px;
+      }
+    }
+  }
+}
+
+/* Màn hình từ 600px đến 767px */
+@media (max-width: 767px) and (min-width: 600px) {
+  .wrap-category {
+    .text-category {
+      span {
+        font-size: 17px;
+      }
+      h2 {
+        font-size: 27px;
+      }
+    }
+  }
+}
+
+/* Màn hình nhỏ hơn 600px */
+@media (max-width: 599px) {
+  .wrap-category {
+    .text-category {
+      span {
+        font-size: 17px;
+      }
+      h2 {
+        font-size: 25px;
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+.heading-wrapp {
+  margin-top: 60px;
+  margin-bottom: 20px;
+  .wrapp {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    .left {
+      display: flex;
+      align-items: center;
+      h2 {
+        margin-right: 13px;
+      }
+      .btn {
+        cursor: pointer;
+        background-color: red;
+        padding: 8px;
+        border-radius: 10px;
+        color: #fff;
+        font-weight: 700;
+        font-size: 13px;
+      }
+    }
+  }
+  p {
+    font-size: 14px;
+  }
+}

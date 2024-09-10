@@ -1,0 +1,38 @@
+.slide-main {
+  .slide-wrap {
+    display: flex;
+    background: linear-gradient(to right, rgb(40, 119, 250), rgb(103, 23, 205));
+    justify-content: space-between;
+    height: 350px;
+    overflow: hidden;
+
+    .slide-left {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 20px;
+      width: 640px;
+      color: #fff;
+      h2 {
+        font-size: 30px;
+        font-weight: 900;
+        margin-bottom: 20px;
+      }
+      p {
+        margin-bottom: 20px;
+      }
+    }
+    .slide-right {
+      display: flex;
+      flex: 3 1;
+      justify-content: flex-end;
+      a {
+        img {
+          height: 100%;
+          object-fit: cover;
+          border: none;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+.wrap {
+  padding-bottom: 20px;
+  padding-top: 20px;
+  border-bottom: 1px solid #d1d7dc;
+  .wrap-course {
+    display: flex;
+
+    img {
+      width: 100%;
+    }
+    .text {
+      width: 50%;
+      margin-left: 10px;
+      line-height: 30px;
+      .rate {
+        display: flex;
+        font-size: 13px;
+        align-items: center;
+      }
+    }
+    .pirce {
+      width: 20%;
+      display: flex;
+      justify-content: flex-end;
+      .price-re {
+        display: flex;
+        flex-direction: column;
+        span {
+          &:nth-child(1) {
+            font-weight: 700;
+            color: red;
+            font-size: 20px;
+            margin-bottom: 10px;
+          }
+          &:nth-child(2) {
+            text-decoration: line-through;
+            color: #929292;
+          }
+        }
+      }
+    }
+  }
+}

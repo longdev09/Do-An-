@@ -1,0 +1,26 @@
+.wrap {
+  .heading {
+    .text {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      span {
+        &:nth-child(1) {
+          font-size: 18px;
+        }
+        &:nth-child(2) {
+          font-size: 18px;
+          font-weight: 700;
+          color: #0681df;
+        }
+      }
+    }
+    .text-r {
+      margin-top: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 15px;
+    }
+  }
+}

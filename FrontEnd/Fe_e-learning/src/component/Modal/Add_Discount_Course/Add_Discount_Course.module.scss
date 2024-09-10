@@ -1,0 +1,37 @@
+.wrap {
+  margin-top: 20px;
+  .heading {
+    margin-bottom: 10px;
+    h2 {
+      font-size: 16px;
+    }
+  }
+  .content {
+    border-radius: 5px;
+    padding: 18px 21px;
+    background-color: #fff;
+    box-shadow: 0px 6px 20px 0px rgba(0, 0, 0, 0.06);
+    .price {
+      display: flex;
+
+      justify-content: center;
+      flex-direction: column;
+      .price-sum,
+      .price-sale,
+      .price-origin {
+        font-size: 16px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+      .price-sale {
+        margin-top: 10px;
+        font-size: 14px;
+      }
+      .price-sum {
+        margin-top: 15px;
+        font-weight: 600;
+      }
+    }
+  }
+}

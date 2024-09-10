@@ -1,0 +1,42 @@
+.wrap {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0px 50px;
+  margin-bottom: 50px;
+  .heading {
+    margin-top: 20px;
+  }
+  .container {
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 10px;
+    .heading {
+      margin-bottom: 20px;
+    }
+    .info {
+      width: 100%;
+      padding: 10px;
+      .wrap-form {
+        .item-img {
+          padding: 0px 10px;
+          width: 30%;
+          .upload-img {
+            display: flex;
+            align-items: center;
+          }
+        }
+        .item-input {
+          width: 70%;
+          display: flex;
+          .item {
+            padding: 0px 10px;
+            width: 50%;
+            .custom-input {
+              height: 50px !important;
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,183 @@
+.wrapper {
+  display: flex;
+  min-width: 100%;
+  min-height: 100%;
+  position: absolute;
+  background: linear-gradient(90deg, transparent 60%, #f7f9fa 40%);
+  .container {
+    display: flex;
+    margin: 0 auto;
+    max-width: 98.4rem;
+    .left {
+      margin: 0 auto;
+      max-width: 30rem;
+      padding: 0 4.8rem 0 2.4rem;
+      background: #fff;
+      min-width: 30rem;
+      h2 {
+        margin-top: 40px;
+        margin-bottom: 40px;
+      }
+      .methods {
+        padding: 8px;
+        background-color: #f7f9fa;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        img {
+          margin-left: 20px;
+          width: 30px;
+        }
+        span {
+          font-size: 14px;
+        }
+      }
+
+      .info-bill {
+        h2 {
+          font-size: 18px;
+          margin-top: 20px;
+          margin-bottom: 10px;
+        }
+        .list-item {
+          margin-top: 20px;
+          .item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            .img {
+              display: flex;
+              align-items: center;
+              margin-right: 10px;
+              img {
+                width: 100px;
+                margin-right: 10px;
+              }
+            }
+            .name-coure {
+              font-size: 12px;
+              width: 285px;
+            }
+            .pice {
+              color: var(--color-main);
+            }
+            + .item {
+              margin-top: 20px;
+            }
+          }
+        }
+      }
+    }
+    .right {
+      background: #f7f9fa;
+
+      .bill {
+        margin-top: 40px;
+        margin-bottom: 40px;
+        max-width: 38.4rem;
+        box-sizing: border-box;
+        display: table;
+        padding: 0 3.2rem 0 4.8rem;
+        position: sticky;
+        top: 2rem;
+        width: 100%;
+
+        h2 {
+          margin-bottom: 20px;
+        }
+
+        .price-origin {
+          display: flex;
+          justify-content: space-between;
+          span {
+            font-size: 15px;
+            margin-bottom: 10px;
+
+            &:nth-child(1) {
+            }
+          }
+          border-bottom: 1px solid #d1d7dc;
+        }
+        .price {
+          margin-top: 20px;
+          display: flex;
+          justify-content: space-between;
+          span {
+            font-size: 15px;
+            font-weight: 600;
+            margin-bottom: 10px;
+          }
+        }
+        p {
+          font-size: 10px;
+        }
+      }
+    }
+    // .main {
+    //   display: flex;
+    //   .complete {
+    //     padding: 0px 20px;
+    //     width: 50%;
+    //     .heading {
+    //       margin: 40px 0px;
+    //     }
+    //     .payment-methods {
+    //       h2 {
+    //         font-size: 18px;
+    //         margin-bottom: 20px;
+    //       }
+    //       .methods {
+    //         padding: 8px;
+    //         background-color: #f7f9fa;
+    //         display: flex;
+    //         align-items: center;
+    //         justify-content: space-between;
+    //         img {
+    //           margin-left: 20px;
+    //           width: 30px;
+    //         }
+    //         span {
+    //           font-size: 14px;
+    //         }
+    //       }
+    //     }
+    //     .info-bill {
+    //       h2 {
+    //         font-size: 18px;
+    //         margin-top: 20px;
+    //       }
+    //       .list-item {
+    //         margin-top: 20px;
+    //         display: flex;
+    //         align-items: center;
+    //         flex-direction: column;
+    //         .item {
+    //           display: flex;
+    //           .img {
+    //             margin-right: 10px;
+    //             img {
+    //               width: 70px;
+    //             }
+    //           }
+    //           .name-coure {
+    //             font-size: 12px;
+    //             width: 285px;
+    //           }
+    //           .pice {
+    //             color: var(--color-main);
+    //           }
+    //           + .item {
+    //             margin-top: 20px;
+    //           }
+    //         }
+    //       }
+    //     }
+    //   }
+    //   .bill {
+    //     width: 50%;
+    //     background-color: #f7f9fa;
+    //     height: 900px;
+    //
+    // }
+  }
+}

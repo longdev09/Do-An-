@@ -1,0 +1,128 @@
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0px 50px;
+  margin-bottom: 50px;
+  .emty-cart {
+    margin-top: 10px;
+    //border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 2px #d1d7dc;
+    flex-direction: column;
+    padding: 20px;
+    img {
+      width: 260px;
+    }
+    p {
+      color: var(--text-color-main);
+      font-weight: 600;
+      margin-bottom: 20px;
+    }
+  }
+
+  .heading {
+    margin-top: 50px;
+    h1 {
+      font-size: 35px;
+      color: var(--text-color-main);
+    }
+    span {
+      font-size: 13px;
+    }
+  }
+  .content {
+    display: flex;
+    margin-top: 30px;
+    .list-item {
+      padding: 0 10px;
+      width: 70%;
+      .item {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border-top: 1px solid #d1d7dc;
+        display: flex;
+        .check {
+          display: flex;
+          align-items: center;
+          margin-right: 10px;
+          .ant-checkbox-input {
+            color: aquamarine;
+          }
+        }
+        .info-course {
+          width: 60%;
+          display: flex;
+          .img {
+            margin-right: 10px;
+            width: 10rem;
+            img {
+              border: 1px solid #d1d7dc;
+              width: 100%;
+            }
+          }
+          .wrap-course {
+            .name-course {
+              margin-bottom: 5px;
+            }
+            .name-mentor {
+              margin-top: 5px;
+              font-size: 13px;
+            }
+            .describe {
+              margin-top: 5px;
+              font-size: 13px;
+              color: #6a6f73;
+            }
+          }
+        }
+        .wrap-fuc {
+          width: 20%;
+          display: flex;
+          justify-content: flex-end;
+          .btn {
+            cursor: pointer;
+            span {
+              font-size: 12px;
+            }
+          }
+        }
+        .price-course {
+          width: 15%;
+          align-items: flex-end;
+          display: flex;
+          flex-direction: column;
+          span {
+            &:nth-child(1) {
+              margin-bottom: 10px;
+              color: red;
+              font-size: 20px;
+            }
+            &:nth-child(2) {
+              font-size: 13px;
+              text-decoration: line-through;
+            }
+          }
+        }
+      }
+    }
+    .price {
+      width: 30%;
+
+      .sum-price {
+        margin-top: 15px;
+        font-size: 30px;
+        color: red;
+        margin-bottom: 20px;
+      }
+      .btn-thanh-toan {
+        width: 100%;
+        .custom-btn {
+          height: 50px;
+          width: 100%;
+        }
+      }
+    }
+  }
+}
