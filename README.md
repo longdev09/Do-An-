@@ -36,9 +36,7 @@ BackEnd
 
 ![image](https://github.com/user-attachments/assets/fb5a786e-911f-4fcb-851d-3af694385c20)
 
-![image](https://github.com/user-attachments/assets/0dbd62ae-670c-4c9f-8b5e-3abb705c631a)
 
-![image](https://github.com/user-attachments/assets/adea3932-235d-4d06-9f46-c10d18539477)
 
 
 
