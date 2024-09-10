@@ -24,14 +24,7 @@ BackEnd
 
 <h2>Hình Ảnh Mô tả</h2>
 
-![image](https://github.com/user-attachments/assets/6556f9c9-75f6-4f75-87a5-b7a547c80660)
-![image](https://github.com/user-attachments/assets/71125604-ad70-4345-88e0-34934e28871b)
-![image](https://github.com/user-attachments/assets/12b9b4a4-65fc-4e3e-b607-8af6639621ba)
-![image](https://github.com/user-attachments/assets/9281688b-5a53-4f75-838e-689eadba4c3d)
-![image](https://github.com/user-attachments/assets/0bc1f114-b244-446a-a97c-9ad4ea8faac7)
-![image](https://github.com/user-attachments/assets/a4d4d3b1-0cc9-4f82-94fc-9ded35fc0817)
-![image](https://github.com/user-attachments/assets/90da6a1f-8619-4680-ad65-bf65ba3033aa)
-![image](https://github.com/user-attachments/assets/d226339d-eb67-43d1-a2ea-1d6dcb2f335e)
+
 
 
 
