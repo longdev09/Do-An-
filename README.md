@@ -31,9 +31,6 @@ BackEnd
 ![image](https://github.com/user-attachments/assets/0bc1f114-b244-446a-a97c-9ad4ea8faac7)
 ![image](https://github.com/user-attachments/assets/a4d4d3b1-0cc9-4f82-94fc-9ded35fc0817)
 ![image](https://github.com/user-attachments/assets/90da6a1f-8619-4680-ad65-bf65ba3033aa)
-![image](https://github.com/user-attachments/assets/9ef9dce6-0d3c-49e0-ad67-6f904abcf9bb)
-![image](https://github.com/user-attachments/assets/d257e7bf-453b-4b18-9d14-a4429625a07b)
-![image](https://github.com/user-attachments/assets/5c5a004d-15e8-458e-957d-77ce256e802e)
 ![image](https://github.com/user-attachments/assets/d226339d-eb67-43d1-a2ea-1d6dcb2f335e)
 
 
