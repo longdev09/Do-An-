@@ -22,8 +22,57 @@ BackEnd
 </ul>
 <hr />
 
-<h2>Hình Ảnh Mô tả</h2>
 
+## Demo
+- **Update**
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/longdev09/Do-An-.git
+```
+
+Go to the project directory
+
+Frontend 
+
+```bash
+  cd Fe_e-learning
+```
+Install dependencies
+
+```bash
+  npm install
+```
+Start the server
+
+```bash
+  npm start
+```
+
+Backend 
+```bash
+  cd Be_e-learning
+```
+Install dependencies
+
+```bash
+  npm install
+```
+Start the server
+
+```bash
+  npm rundev
+```
+
+## Deployment
+update
+    
+
+## Screenshots
 ![image](https://github.com/user-attachments/assets/7342df2c-bff0-4094-8536-e022dd970b8e)
 
 ![image](https://github.com/user-attachments/assets/7e2dd1a6-bfce-4302-b3ab-1eec4422db91)
@@ -40,6 +89,11 @@ BackEnd
 ![image](https://github.com/user-attachments/assets/67b28288-568c-42c2-8e5e-6ea113d7c3ab)
 
 ![image](https://github.com/user-attachments/assets/c731ac09-e72c-4eb2-8457-c8cfe654b32b)
+
+
+
+
+
 
 
 
